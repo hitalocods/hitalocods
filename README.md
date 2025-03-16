@@ -14,7 +14,10 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=database&logoColor=white)
 
 ## 📊 Estatísticas do GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitalolacerda&show_icons=true&theme=dracula)
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hitalolacerda&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hitalolacerda&theme=dracula" />
+</p>
 
 ## 📫 Onde me encontrar  
 - [LinkedIn](https://www.linkedin.com/in/devhitalolacerda)  
