@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Hitalo Lacerda  
 
-<!--
-**hitalocods/hitalocods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Foco em JavaScript, Vue.js, Node.js, SQL, Python e React  
+🚀 Aprendendo automação e criação de bots com IA  
+📖 Estudando inglês de forma autodidata  
 
-Here are some ideas to get you started:
+## 🚀 Minhas Tecnologias  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=database&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitalolacerda&show_icons=true&theme=dracula)
+
+## 📫 Onde me encontrar  
+- [LinkedIn](https://www.linkedin.com/in/devhitalolacerda)  
+- [Instagram](https://www.instagram.com/gomezhitalo)
+
+---
+
+🚀 Sempre aprendendo e evoluindo no mundo da programação!  
