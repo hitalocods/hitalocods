@@ -18,7 +18,7 @@
 ## 📫 Onde me encontrar  
 📌 [LinkedIn](https://www.linkedin.com/in/devhitalolacerda)  
 📷 [Instagram](https://www.instagram.com/gomezhitalo)  
-✉️ hitalolacerdag@gmail.com  
+✉️ [Email} hitalolacerdag@gmail.com  
 
 ---
 
